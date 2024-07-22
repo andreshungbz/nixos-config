@@ -5,6 +5,9 @@
     allowUnfree = true;
   };
 
+  # linux kernel
+  boot.kernelPackages = pkgs.linuxPackages_latest;
+
   environment.systemPackages = with pkgs; [
     # desktop applications
     chromium
