@@ -50,6 +50,7 @@
     zip
     zsh
     openssl
+    wakatime-cli
 
     # wayland
     xwayland
