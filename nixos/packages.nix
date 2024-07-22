@@ -51,6 +51,7 @@
     zsh
     openssl
     wakatime-cli
+    npm-check-updates
 
     # wayland
     xwayland
