@@ -7,7 +7,6 @@
 
   environment.systemPackages = with pkgs; [
     # desktop applications
-    chromium
     firefox
     firefox-devedition
     telegram-desktop
