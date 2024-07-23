@@ -9,6 +9,7 @@
     # desktop applications
     firefox
     firefox-devedition
+    thunderbird
     telegram-desktop
     kitty
     obs-studio
