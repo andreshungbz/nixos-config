@@ -36,7 +36,6 @@
 
     # cli utilities
     vim
-    neovim
     tree
     wget
     curl
@@ -58,6 +57,7 @@
     # wayland
     xwayland
     wl-clipboard
+    wl-clipboard-x11
     cliphist
 
     # sound
