@@ -47,10 +47,13 @@
     btop
     ffmpeg
     zip
-    zsh
     openssl
     wakatime-cli
     npm-check-updates
+    eza
+    zoxide
+    bat
+    fzf
 
     # wayland
     xwayland

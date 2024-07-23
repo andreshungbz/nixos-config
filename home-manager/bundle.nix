@@ -7,5 +7,6 @@ in
     "${folder}/git.nix"
     "${folder}/kitty.nix"
     "${folder}/starship.nix"
+    "${folder}/zsh.nix"
   ];
 }
