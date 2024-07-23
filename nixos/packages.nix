@@ -54,6 +54,7 @@
     zoxide
     bat
     fzf
+    fd
 
     # wayland
     xwayland
