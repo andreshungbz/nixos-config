@@ -37,7 +37,6 @@
     # cli utilities
     vim
     neovim
-    file
     tree
     wget
     curl
