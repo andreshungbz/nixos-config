@@ -7,4 +7,8 @@
   environment.plasma6.excludePackages = with pkgs.kdePackages; [
     spectacle
   ];
+
+  environment.systemPackages = [
+    pkgs.kdePackages.kweather
+  ];
 }
