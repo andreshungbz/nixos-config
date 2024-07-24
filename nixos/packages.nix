@@ -24,6 +24,7 @@
     polychromatic
     mission-center
     psensor
+    flameshot
 
     # desktop extras
     openrazer-daemon
@@ -79,6 +80,9 @@
     font-awesome
     powerline-fonts
     powerline-symbols
+    ubuntu-sans
+    ubuntu-classic
+    commit-mono
     (nerdfonts.override { fonts = [ "JetBrainsMono" ]; })
   ];
 }
