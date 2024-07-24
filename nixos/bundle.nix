@@ -13,5 +13,7 @@ in
     "${folder}/users.nix"
     "${folder}/xserver.nix"
     "${folder}/steam.nix"
+    "${folder}/openssh.nix"
+    "${folder}/avahi.nix"
   ];
 }

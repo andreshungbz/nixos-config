@@ -70,6 +70,10 @@
     amdvlk
     rocm-opencl-icd
     glaxnimate
+
+    # mDNS
+    avahi
+    nssmdns
   ];
 
   fonts.packages = with pkgs; [
