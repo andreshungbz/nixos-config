@@ -19,6 +19,7 @@
     krita
     vscode
     vlc
+    warp-terminal
 
     # desktop utilities
     polychromatic
