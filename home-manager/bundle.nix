@@ -9,5 +9,6 @@ in
     "${folder}/zsh.nix"
     "${folder}/neovim.nix"
     "${folder}/fastfetch.nix"
+    "${folder}/alacritty.nix"
   ];
 }
