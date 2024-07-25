@@ -75,9 +75,6 @@
     # mDNS
     avahi
     nssmdns
-
-    # other
-    sshfs
   ];
 
   fonts.packages = with pkgs; [
