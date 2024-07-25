@@ -26,6 +26,7 @@
           "disk",
           "battery",
           "localip",
+          "publicip",
           "datetime",
           "weather",
           "break",
