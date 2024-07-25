@@ -19,7 +19,12 @@
 
       ll = "ls -l";
 
-      ls="eza --icons=always --color=always";
+      ls = "eza --icons=always --color=always";
+
+      # remotely mounting AHM1A and accessing its files
+      mntAHM1A = "sudo sshfs -o allow_other,default_permissions andreshung@AHM1A.local:/ /mnt/AHM1A/";
+      umntAHM1A = "sudo umount /mnt/AHM1A";
+      art = "gwenview 'admin:/mnt/AHM1A/Users/andreshung/Library/Mobile Documents/com~apple~CloudDocs/Art'";
     };
 
     history = {
