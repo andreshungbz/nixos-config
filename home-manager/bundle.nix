@@ -8,5 +8,6 @@ in
     "${folder}/starship.nix"
     "${folder}/zsh.nix"
     "${folder}/neovim.nix"
+    "${folder}/fastfetch.nix"
   ];
 }
