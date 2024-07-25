@@ -18,8 +18,8 @@
       pkgs = "nvim ${flakeDir}/nixos/packages.nix";
 
       ll = "ls -l";
-
       ls = "eza --icons=always --color=always";
+      rmount = "sh -c "rclone --vfs-cache-mode writes mount \"UB\": ~/UBGDrive" &"
     };
 
     history = {

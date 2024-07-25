@@ -55,6 +55,7 @@
     bat
     fzf
     fd
+    rclone
 
     # wayland
     xwayland
