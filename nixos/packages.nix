@@ -56,6 +56,7 @@
     fzf
     fd
     rclone
+    lm_sensors
 
     # wayland
     xwayland
