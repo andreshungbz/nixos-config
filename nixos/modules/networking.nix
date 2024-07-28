@@ -2,8 +2,8 @@
   networking.networkmanager.enable = true;
 
   # Open ports in the firewall.
-  # networking.firewall.allowedTCPPorts = [ ... ];
-  # networking.firewall.allowedUDPPorts = [ ... ];
+  networking.firewall.allowedTCPPorts = [ 2222 ];
+  networking.firewall.allowedUDPPorts = [ 2222 ];
   # Or disable the firewall altogether.
   # networking.firewall.enable = false;
 
