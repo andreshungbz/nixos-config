@@ -1,3 +1,8 @@
 {
-  services.openssh.enable = true; # OpenSSH
+  services.openssh = {
+    enable = true;
+    settings = {
+      X11Forwarding = true;
+    };
+  };
 }
