@@ -20,6 +20,7 @@
     vscode
     vlc
     warp-terminal
+    element-desktop
 
     # desktop utilities
     polychromatic
