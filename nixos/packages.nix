@@ -58,6 +58,7 @@
     fd
     rclone
     lm_sensors
+    gnupg
 
     # wayland
     xwayland
